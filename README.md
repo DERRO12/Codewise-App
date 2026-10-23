@@ -1,4 +1,5 @@
 # Code Wise Academy
+Made by the By the 5 Mmebers group  Which Had an i dea of making the  the elearning app 
 
 Flutter mobile app for learning to code (MAD coursework). Phase 1 is frontend only: every screen works with demo data stored on the device.
 
